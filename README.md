@@ -1,0 +1,8 @@
+![home](https://github.com/user-attachments/assets/ff18cb31-5bee-4767-b299-d468b50721a2)
+![admin](https://github.com/user-attachments/assets/1f01b67e-5e1e-4959-842f-066bcf4165a8)
+![create-quiz](https://github.com/user-attachments/assets/55188d14-7032-447e-a806-5c84c9deb861)
+![all-quizzes](https://github.com/user-attachments/assets/e534ab77-f4f0-4a18-a1d3-3e06391df01f)
+![quiz-stepper](https://github.com/user-attachments/assets/a9308eb9-2beb-4d0c-bb4f-2cb212b0fd56)
+![quiz-stepper2](https://github.com/user-attachments/assets/ad402d04-6e68-4110-b3f9-c23357b9f62e)
+![take_quiz](https://github.com/user-attachments/assets/93a99f5e-86a6-4fcd-9d5e-e5abbdb4f994)
+![quiz-result](https://github.com/user-attachments/assets/9096a44c-696e-4c3c-af0e-baebef5e18b5)
